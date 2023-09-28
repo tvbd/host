@@ -109,6 +109,51 @@
 			</div>
 			<script src="js/search.js"></script>
 	</body>
-	<script> function joinWhatsAppGroup() { const whatsappGroupUrl = ""; window.open(whatsappGroupUrl, '_blank'); } function joinTelegramGroup() { const telegramGroupUrl = ""; window.open(telegramGroupUrl, ''); } const PlayListButton = document.getElementById('PlayListButton'); PlayListButton.addEventListener('click', () => { var protocol = window.location.protocol; var localIP = window.location.hostname; var port = window.location.port; if (window.location.hostname !== "" && window.location.hostname !== "") { var hostJio = window.location.host; } else { var hostJio = localIP + (port ? ':' + port : ''); } var jioPath = protocol + '//' + hostJio + window.location.pathname.replace(/\/[^/]*$/, ''); var jioPath = jioPath + '/app/playlist.php'; navigator.clipboard.writeText(jioPath) .then(() => { alert('PlayList URL copied to Clipboard!'); }) .catch((error) => { console.error('Error copying URL:', error); }); }); </script>
-</html>
+
+
+
+<script>
+        function joinWhatsAppGroup() {
+            const whatsappGroupUrl = "";
+            window.open(whatsappGroupUrl, '_blank');
+        }
+
+        function joinTelegramGroup() {
+            const telegramGroupUrl = "";
+            window.open(telegramGroupUrl, '_blank');
+        }
+    const PlayListButton = document.getElementById('PlayListButton');
+    PlayListButton.addEventListener('click', () => {
+
+        var protocol = window.location.protocol;
+        var localIP = window.location.hostname;
+        var port = window.location.port;
+
+        if (window.location.hostname !== "jiotv.shortt.tk" && window.location.hostname !== "jiotvshortt.tk") {
+            var hostJio = window.location.host;
+        } else {
+            var hostJio = localIP + (port ? ':' + port : '');
+        }
+
+        var jioPath = protocol + '//' + hostJio + window.location.pathname.replace(/\/[^/]*$/, '');
+        var jioPath = jioPath + '/app/playlist.php';
+
+        navigator.clipboard.writeText(jioPath)
+            .then(() => {
+                alert('PlayList URL copied to Clipboard!');
+            })
+            .catch((error) => {
+                console.error('Error copying URL:', error);
+            });
+    });
+</script>
+
+
+
+		
+	</html>
+
+
+
+
 
