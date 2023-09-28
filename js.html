@@ -75,7 +75,7 @@
 					</div>
 				</div>
 			</div>
-			<script src="app/assets/js/search.js"></script>undefined
+			<script src="js/search.js"></script>
 	</body>
 	<script> function joinWhatsAppGroup() { const whatsappGroupUrl = ""; window.open(whatsappGroupUrl, '_blank'); } function joinTelegramGroup() { const telegramGroupUrl = "https://t.me/filmynilla/"; window.open(telegramGroupUrl, '_blank'); } const PlayListButton = document.getElementById('PlayListButton'); PlayListButton.addEventListener('click', () => { var protocol = window.location.protocol; var localIP = window.location.hostname; var port = window.location.port; if (window.location.hostname !== "jiotv.shortt.tk" && window.location.hostname !== "jiotvshortt.tk") { var hostJio = window.location.host; } else { var hostJio = localIP + (port ? ':' + port : ''); } var jioPath = protocol + '//' + hostJio + window.location.pathname.replace(/\/[^/]*$/, ''); var jioPath = jioPath + '/app/playlist.php'; navigator.clipboard.writeText(jioPath) .then(() => { alert('PlayList URL copied to Clipboard!'); }) .catch((error) => { console.error('Error copying URL:', error); }); }); </script>
 </html>
