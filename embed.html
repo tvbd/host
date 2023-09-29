@@ -119,10 +119,10 @@
 </style>
 <div id="list-server-more">
     <a href="javascript:void(0)" id="show-server" title="Show Server"></a>
-    <ul class="list-server-items">
-                <li class="active linkserver"  data-status="0" data-video="http://103.193.72.74:8080/gtv/embed.html">1</li>
-                        <li class="linkserver" data-status="1" data-video="http://103.193.72.74:8080/sport/embed.html">2</li>
-                       <li class="linkserver" data-status="1" data-video="https://play.wapnom.com/">3</li>
+   <ul class="list-server-items">
+<li class="active linkserver" data-status="0" data-video="http://103.193.72.74:8080/gtv/embed.html">1</li>
+<li class="linkserver" data-status="1" data-video="//103.193.72.74:8080/sport/embed.html">2</li>
+
                                          
          
                             </ul>
@@ -136,7 +136,7 @@
             var countplayer = 1;
             var countcheck = 0;
             playerInstance.setup({
-                sources:[{file: 'http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8',label',label: 'hls P','type' : 'hls'}],
+                sources:[{file: 'http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8',label: 'hls P','type' : 'hls'}],
                                     });
             playerInstance.on('error', function() {
                 countcheck ++;
@@ -167,7 +167,7 @@
                 function() {
                     window.open(
                         "",
-                        ""
+                        "_blank"
                     );
                 },
                 "download"
@@ -198,8 +198,8 @@ loadCSS("//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700");loadCS
 //]]>
 </script>
 
-
 </body>
 </html>
+
 
 
