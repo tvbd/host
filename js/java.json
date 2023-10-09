@@ -1,2 +1,10 @@
-[{"link2":"http://lelinhtinh.github.io/de4js","img":"","genre":"Deobfuscator","lang":"Eng","name":"De4js","author":"TVBD"}
-,{"link2":"http://deo.sigr.io/","img":"","genre":"Deobfuscator","lang":"Eng","name":"Deo.sigr","author":"TVBD"}]
+[{"link2":"http://lelinhtinh.github.io/de4js","img":"","genre":"Deobfuscator","lang":"JS","name":"De4js","author":"TVBD"}
+,{"link2":"http://deo.sigr.io/","img":"","genre":"Deobfuscator","lang":"JS","name":"Deo.sigr","author":"TVBD"}
+,{"link2":"http://deobfuscate.io/","img":"","genre":"Deobfuscator","lang":"JS","name":"Deobfuscate.io","author":"TVBD"}
+,{"link2":"http://obfuscator.io","img":"","genre":"Obfuscator","lang":"JS","name":"Obfuscator.io","author":"TVBD"}
+,{"link2":"http://obf-io.deobfuscate.io","img":"","genre":"Deobfuscator","lang":"JS","name":"Obf-iO","author":"TVBD"}  
+,{"link2":"http://www.vietrick.com/apps/js-decrypt","img":"","genre":"Deobfuscator","lang":"JS","name":"Vietrick","author":"TVBD"} 
+,{"link2":"http:////matthewfl.com/unPacker.html","img":"","genre":"Unpack","lang":"JS","name":"Matthewfl","author":"TVBD"} 
+,{"link2":"http://ddecode.com/hexdecoder","img":"","genre":"Decoder","lang":"JS","name":"Hexdecoder","author":"TVBD"}  
+,{"link2":"http://beautifier.io","img":"","genre":"Beautifier","lang":"JS","name":"Beautifier.io","author":"TVBD"} 
+]
