@@ -1,8 +1,8 @@
 [
- {"link2":"//rawcdn.githack.com/tvbd/m3uplayer/main/m3u/rabbyos.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos","author":"TVBD"}
-,{"link2":"//rawcdn.githack.com/tvbd/m3uplayer/main/m3u/rabbyos2.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos2","author":"TVBD"}
-,{"link2":"//rawcdn.githack.com/githubmahin/iptv24/main/index.html","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"FreeTV","author":"TVBD"}
-,{"link2":"//rawcdn.githack.com/sohag1192/BDIX-IPTV/master/new%20tv%20bd.m3u8","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"IPL","lang":"IPTV","name":"NewTV","author":"TVBD"}
-,{"link2":"//rawcdn.githack.com/280b9f9b/IPTVList/main/TVChannels.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"Other","lang":"IPTV","name":"Abu Dhabi","author":"TVBD"}
+ {"link2":"https://rawcdn.githack.com/tvbd/m3uplayer/main/m3u/rabbyos.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos","author":"TVBD"}
+,{"link2":"https://rawcdn.githack.com/tvbd/m3uplayer/main/m3u/rabbyos2.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos2","author":"TVBD"}
+,{"link2":"https://rawcdn.githack.com/githubmahin/iptv24/main/index.html","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"FreeTV","author":"TVBD"}
+,{"link2":"https://rawcdn.githack.com/sohag1192/BDIX-IPTV/master/new%20tv%20bd.m3u8","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"IPL","lang":"IPTV","name":"NewTV","author":"TVBD"}
+,{"link2":"https://rawcdn.githack.com/280b9f9b/IPTVList/main/TVChannels.m3u","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"Other","lang":"IPTV","name":"Abu Dhabi","author":"TVBD"}
 ,{"link2":"https://rawcdn.githack.com/msujoy1495/Live-TV/main/OrangeTV.m3u8","img":"//rawcdn.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"OrangeTV","author":"TVBD"}
 ]
