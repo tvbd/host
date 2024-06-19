@@ -1,7 +1,8 @@
 [
  {"link2":"//raw.githubusercontent.com/RumiOrg/rumiorg.github.io/main/Rumi.html","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Dish TV","author":"TVBD"}
-,  {"link2":"//raw.githubusercontent.com/etrboss/etrboss.github.io/main/etr.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Bongo Flix","author":"TVBD"}
-, {"link2":"https://raw.githack.com/tvbd/m3uplayer/main/m3u/rabbyos.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos","author":"TVBD"}
+,{"link2":"//raw.githubusercontent.com/etrboss/etrboss.github.io/main/etr.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Bongo Flix","author":"TVBD"}
+,{"link2":"//raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"PiratesTv","author":"TVBD"}
+,{"link2":"https://raw.githack.com/tvbd/m3uplayer/main/m3u/rabbyos.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos","author":"TVBD"}
 ,{"link2":"https://raw.githack.com/tvbd/m3uplayer/main/m3u/rabbyos2.m3u","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"Rabbyos2","author":"TVBD"}
 ,{"link2":"https://raw.githack.com/githubmahin/iptv24/main/index.html","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"All","lang":"IPTV","name":"FreeTV","author":"TVBD"}
 ,{"link2":"https://raw.githack.com/sohag1192/BDIX-IPTV/master/new%20tv%20bd.m3u8","img":"//raw.githack.com/tvbd/m3uplayer/main/img/ip.png","genre":"IPL","lang":"IPTV","name":"NewTV","author":"TVBD"}
