@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>🕊𝐓𝐕𝐓𝐞𝐥𝐮𝐠𝐮™</title>
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/tvtelugu/tvteluguplay/main/images/TVtelugu.ico">
+    <link rel="stylesheet" href="styles.css">
+   <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" href="https://raw.githubusercontent.com/tvtelugu/tvteluguplay/main/images/TVTELUGU-B.png" type="image/png">
+</head>
+<body>
+    <header>
+        <img src="https://raw.githubusercontent.com/tvtelugu/tvteluguplay/main/images/TVTELUGU-B.png" alt="Page Logo" class="logo">
+<div class="quote-box">
+        "All movies and content on this site are provided for entertainment purposes only. We do not host or upload any videos. All trademarks, copyrights, and logos belong to their respective owners."
+    </div>
+        <input type="text" id="search-bar" placeholder="Search...">
+        <div class="filters">
+             <select id="genre-filter">
+            <option value="">All Genres</option>
+            <!-- Genre options will be populated dynamically -->
+        </select>
+        <select id="year-filter">
+            <option value="">All Years</option>
+            <!-- Year options will be populated dynamically -->
+        </select>
+        <select id="type-filter">
+            <option value="">Type</option>
+            <!-- Language options will be populated dynamically -->
+        </select>
+        </div>
+    </header>
+    <main>
+        <div class="movie-grid" id="movie-grid"></div>
+    </main>
+    <script>async function fetchMovies() {
+    const response = await fetch('flix.json');
+    const movies = await response.json();
+    return movies;
+}
+
+function populateDropdowns(movies) {
+    const genreFilter = document.getElementById('genre-filter');
+    const yearFilter = document.getElementById('year-filter');
+    const typeFilter = document.getElementById('type-filter');
+    
+    const genres = new Set();
+    const years = new Set();
+    const types = new Set();
+    
+    movies.forEach(movie => {
+        genres.add(movie.genre);
+        years.add(movie.year);
+        movie.type.forEach(type => types.add(type));
+    });
+    
+    genres.forEach(genre => {
+        const option = document.createElement('option');
+        option.value = genre;
+        option.textContent = genre;
+        genreFilter.appendChild(option);
+    });
+    
+    years.forEach(year => {
+        const option = document.createElement('option');
+        option.value = year;
+        option.textContent = year;
+        yearFilter.appendChild(option);
+    });
+    
+    types.forEach(type => {
+        const option = document.createElement('option');
+        option.value = type;
+        option.textContent = type;
+        typeFilter.appendChild(option);
+    });
+}
+
+async function displayMovies(movies) {
+    const movieGrid = document.getElementById('movie-grid');
+    movieGrid.innerHTML = '';
+    
+    movies.forEach(movie => {
+        const movieCard = document.createElement('div');
+        movieCard.className = 'movie-card';
+        
+        // Create ribbons for type and featured status
+        const typeRibbons = movie.type.map(type => {
+            let ribbonClass = '';
+            if (type === 'Web-Rip') {
+                ribbonClass = 'web-rip';
+            } else if (type === 'Cam') {
+                ribbonClass = 'cam';
+            }
+            return `<div class="ribbon type-ribbon ${ribbonClass}">${type}</div>`;
+        }).join('');
+
+        const featuredRibbon = movie.featured ? `
+            <div class="ribbon featured-ribbon">New</div>
+        ` : '';
+
+        movieCard.innerHTML = `
+            <a href="${movie.link}" target="_blank">
+                <img src="${movie.poster}" alt="${movie.title}">
+                <div class="movie-info">
+                    <div class="title">${movie.title}</div>
+                    <div class="genre">Genre: ${movie.genre}</div>
+                    <div class="year">Year: ${movie.year}</div>
+                </div>
+                ${typeRibbons}
+                ${featuredRibbon}
+            </a>
+        `;
+        movieGrid.appendChild(movieCard);
+    });
+}
+
+
+function filterMovies(movies) {
+    const searchBar = document.getElementById('search-bar').value.toLowerCase();
+    const genreFilter = document.getElementById('genre-filter').value;
+    const yearFilter = document.getElementById('year-filter').value;
+    const typeFilter = document.getElementById('type-filter').value;
+    
+    return movies.filter(movie => {
+        return (movie.title.toLowerCase().includes(searchBar) ||
+                movie.genre.toLowerCase().includes(searchBar) ||
+                movie.type.some(type => type.toLowerCase().includes(searchBar))) &&
+               (!genreFilter || movie.genre === genreFilter) &&
+               (!yearFilter || movie.year === yearFilter) &&
+               (!typeFilter || movie.type.includes(typeFilter));
+    });
+}
+
+async function init() {
+    const movies = await fetchMovies();
+    populateDropdowns(movies);
+    displayMovies(movies);
+
+    document.getElementById('search-bar').addEventListener('input', () => {
+        const filteredMovies = filterMovies(movies);
+        displayMovies(filteredMovies);
+    });
+
+    document.getElementById('genre-filter').addEventListener('change', () => {
+        const filteredMovies = filterMovies(movies);
+        displayMovies(filteredMovies);
+    });
+
+    document.getElementById('year-filter').addEventListener('change', () => {
+        const filteredMovies = filterMovies(movies);
+        displayMovies(filteredMovies);
+    });
+
+    document.getElementById('type-filter').addEventListener('change', () => {
+        const filteredMovies = filterMovies(movies);
+        displayMovies(filteredMovies);
+    });
+}
+
+init();
+</script>
+</body>
+</html>
