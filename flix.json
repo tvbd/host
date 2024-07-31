@@ -1,0 +1,949 @@
+[
+
+    {       
+		"title": "Bharathanatyam",
+        "year": "2024",
+		"poster": "https://m.media-amazon.com/images/M/MV5BYjczYzE5NWMtMzhkOS00N2E0LWI0NTktMDM1NWIwNjM4YWE0XkEyXkFqcGdeQXVyMTQ2NTg1MzAz._V1_FMjpg_UX1000_.jpg",
+        "link": "http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371594.mp4",
+		"genre": "Triller",
+        "type": ["Web-Rip"],
+        "featured": true
+    },
+	
+   {
+       "title":"Chhota Bheem and the Curse of Damyaan",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNTdjMDljYmQtYTEzMy00Mzk0LWJiYTAtN2IzODIwZDM4NTM2XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371590.mp4",
+		"genre":"Anime",
+       "type": ["Web-Rip"],
+       "featured": true
+    },
+    {       
+		"title": "Deadpool & Wolverine",
+        "year": "2024",
+		"poster": "https://m.media-amazon.com/images/M/MV5BNzRiMjg0MzUtNTQ1Mi00Y2Q5LWEwM2MtMzUwZDU5NmVjN2NkXkEyXkFqcGc@._V1_.jpg",
+        "link": "http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371021.mp4",
+		"genre": "Action",
+        "type": ["Cam"],
+        "featured": false
+    },
+	{       
+		"title": "Raayan",
+        "year": "2024",
+		"poster": "https://m.media-amazon.com/images/M/MV5BMWQyMTNjYjItNjJjZS00NWY5LWJmZTgtNjBmNGVlOWYwZDY1XkEyXkFqcGdeQXVyMTQ4MTg3Njcx._V1_FMjpg_UX1000_.jpg",
+        "link": "http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/371022.mp4",
+		"genre": "Triller",
+        "type": ["Cam"],
+        "featured": false
+    },
+    {
+	"title":"Chandu Champion",
+       "year":"2024",
+	"poster":"https://m.media-amazon.com/images/M/MV5BZDAxMmU3NGUtMGEyZC00ZGQ5LTk1ZjEtZGU2YmI0MjUzNWVmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/370652.mp4",
+	"genre":"Sports",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	{       
+	"title":"Love Lies Bleeding",
+       "year":"2024",
+	"poster":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7MOmL5hXAncYyaI9s5mOgaLX2BZEi2s6v4Q&s",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/370655.mp4",
+	"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	{       
+	"title":"The Ministry of Ungentlemanly Warfare",
+       "year":"2024",
+	"poster":"https://m.media-amazon.com/images/M/MV5BOWI5YTlkNTktOTJlMC00MmYyLThkNzQtYmExOGZkZDE1ZjgwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/370578.mp4",
+	"genre":"Comedy",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	{       
+	"title":"Yevam",
+       "year":"2024",
+	"poster":"https://m.media-amazon.com/images/M/MV5BMjg1NmQ4NjgtYTZhYy00YjY3LThjN2MtMWU3NjQzNTc3OGQzXkEyXkFqcGdeQXVyMTQyODQxOTc2._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/370579.mp4",
+	"genre":"Triller",
+       "type": ["Web-Rip"],
+       "featured": false
+    },	
+   {       
+	"title":"The Goat Life",
+       "year":"2024",
+	"poster":"https://m.media-amazon.com/images/M/MV5BMTg4YmUzZjEtYzYxNC00MDczLWFhMjAtNzA4NjBlMGQ5N2E4XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367446.mp4",
+	"genre":"Adventure",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {
+       "title":"Bad Boys: Ride or Die",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/346882.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"A Journey to Kasi",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMmU5MThmZDItZmMxMy00Nzc2LTg4MjUtMTU0ZjY1MjdmZWYwXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369593.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Raju Yadav",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYjUxMmNhZWUtMTg3Ni00MzJjLTkyNjctOWQxZmIwYTE5ZWIxXkEyXkFqcGdeQXVyMTQ2NTg1MzAz._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369599.mp4",
+		"genre":"Comedy",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Kho Kho",
+       "year":"2021",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZGRkODQ1NjItOWI3MS00OGZmLTk3MGYtMzFjOWM5NjVlOGQ3XkEyXkFqcGdeQXVyNjAyMzMzNjA@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369925.mp4",
+		"genre":"Sports",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Crime Reel",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/crime-reel-et00404504-1720767926.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369933.mp4",
+		"genre":"Crime",
+       "type": ["Cam"],
+       "featured": false
+    },
+	    {       
+		"title":"Pekamedalu",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pekamedalu-et00403873-1720417217.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369936.mp4",
+		"genre":"Drama",
+       "type": ["Cam"],
+       "featured": false
+    },
+	    {       
+		"title":"The Birthday Boy",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZGM4MmQ1MjMtODUwNi00YTBmLTg3ZmMtNzkyY2NmMDY0MTUzXkEyXkFqcGc@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369943.mp4",
+		"genre":"Triller",
+       "type": ["Cam"],
+       "featured": false
+    },
+	    {       
+		"title":"Sleep",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjRmNWNiZjktZjI3Ny00OTg4LThhNjQtMzEzMTMzYzdiYzVhXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/369313.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Find Me Falling",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNTkxZmNmY2MtNzU4OS00Mjc0LTg5Y2ItYmEwYmI4YzAzNGY2XkEyXkFqcGc@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367730.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Darling",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BM2ZiMmU5YzMtZmYwZS00MGJiLTkzYzEtNzczZmUwZWY4NmNhXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367731.mp4",
+		"genre":"Comedy",
+       "type": ["Cam"],
+       "featured": false
+    },
+	    {       
+		"title":"The Deep Dark",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZWE4YjEwMDEtYjBlZC00Mzc5LWIwNDctM2YzMjUyOThkZmE1XkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367445.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Arcadian",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMDI1ZTc1MDAtYWY3Mi00OWM5LWFkZTUtMWM1Yjc1ZjFiOWYzXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367399.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Bats",
+       "year":"1999",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOTdhZDJkNDgtODVkMS00ZDcxLWE3N2ItMDNkNzNiYmQyNmJhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367400.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"My Spy: The Eternal City",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjVhMTBlN2QtMWJmOS00OTliLWEwZTUtZjI3NWM2NjdmZjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367407.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+	    {       
+		"title":"Monkey King: Hero Is Back",
+       "year":"2015",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTQ3Njk1MzAxOF5BMl5BanBnXkFtZTgwNzg2MTI4ODE@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/367409.mp4",
+		"genre":"Anime",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {       
+		"title":"Music Shop Murthy",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/music-shop-murthy-et00399590-1716881678.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366246.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Maharaja",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/maharaja-et00399737-1716978600.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364598.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Harom Hara",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYjBiMmEzMmItZjEyMi00MDljLWI4ZDQtMTVjN2Q3ZTAyZjVhXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/365034.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Eagle Eye",
+       "year":"2008",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjA5MTMzMDMzNl5BMl5BanBnXkFtZTcwMzUwNDUzMw@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366574.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Hot Spot",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMDQ3MDQyMGQtZmFhMy00N2ZjLWE0NDEtYTYwZWQ2NmJlYTZlXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366579.mp4",
+		"genre":"Triller",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Be with You",
+       "year":"2018",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMGVkZjdlMzAtNGFjZi00Zjc1LTljZmQtYjEzYjFjMjkxNDk4XkEyXkFqcGdeQXVyNDcyMjQ4MzU@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366242.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Hellboy",
+       "year":"2004",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNTc1ZWY0ZTEtZTVmNi00MTg0LTg4NmQtZTI4OWNiMmQ0MWZkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366243.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Hellboy II: The Golden Army",
+       "year":"2008",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjA5NzgyMjc2Nl5BMl5BanBnXkFtZTcwOTU3MDI3MQ@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366244.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Hellboy",
+       "year":"2019",
+		"poster":"https://m.media-amazon.com/images/M/MV5BODdkMDQzMzItZDc4YS00OGM4LTkxNTQtNjUzNzU0ZmJkMWY2XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/366245.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {        
+		"title":"Jilebi",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/jilebi-et00367107-1692004984.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/365042.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Premalo",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMzEwOGY1ZmYtZTExNS00OGVkLTg3OGYtY2EwZDIyNmQ1M2Q3XkEyXkFqcGdeQXVyMTQwOTk0MjQy._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/364599.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Fierce Cop",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYjI3NGFlYjItMDFmOC00MGIxLWI5NjQtYjVmMDczMTc2OTkxXkEyXkFqcGdeQXVyNzU1MDY2NTQ@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363701.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Plot",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/plot-et00372966-1697544005.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363708.mp4",
+		"genre":"Triller",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Election",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMWI3MmU3YTItYjdjZi00YmMxLWFjMGUtNTA2ZGFhYWQzN2U1XkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363158.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"RV: Resurrected Victims",
+       "year":"2017",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOGRiMzU3OTUtOWEwYi00MDRhLWJhMmEtYmMyMmY2ZmE4NjVlXkEyXkFqcGdeQXVyNDcyMjQ4MzU@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363159.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Wild Wild Punjab",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOGVkNjU3YmItYzhlMi00Yzk2LWEwOTctZDBmOWRlYjViOTMxXkEyXkFqcGc@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/363160.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Hit List",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZThiNmEzOTctOGNkZS00OGVmLWJlMWUtNzBlNWE1ODNhMzBjXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/362412.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Maidaan",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BM2UzNjljNGYtMjBkZS00N2I3LWJkYTEtNjMyYjE3MWY5Y2U4XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/362413.mp4",
+		"genre":"Sports",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Fittrat",
+       "year":"2019",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNGE1MmM1NmEtMWU3OC00ZTRiLWFkYzgtNWI0YmIwYTg1YzgyXkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/361939.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"The Monkey Is Back",
+       "year":"2021",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjg3YzUzZDEtOTc1ZC00MDYwLTkxNzgtY2YzNmRkNzgxNmU2XkEyXkFqcGdeQXVyMTMyMTYwOTI0._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/361330.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"The Seeding",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BY2NmOGFkOWMtYTYxMy00OGJmLTg2ODgtZWNhMjA0OWY5YjVlXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/360351.mp4",
+		"genre":"Sci-Fi",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Malayalee from India",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNmE5ZGFmM2YtNDdkOC00Yzk3LWEyOWQtN2U5ZGE0ZjZhOTk2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/360332.mp4",
+		"genre":"Comedy",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"The Great Arms Robbery",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYjNmNWUzNzktYzk1Yi00NTRjLWJiYjktODg3NTE1Y2M4ZTZlXkEyXkFqcGdeQXVyNjY5NzM2Njc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/360333.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Market Mahalakshmi",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNzYzYTRhYjEtZjI0NC00ZGMwLWEyYmItZjUyM2Y2YzEyMjM0XkEyXkFqcGdeQXVyMTYyMzA3NzQ2._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359652.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Beverly Hills Cop 4: Axel F",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMDVhYWNkNTUtZWVjMC00Y2M1LWEzNmItZjFiMzA4ZjNiODI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359646.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Thanksgiving",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOGZhOGJjZTAtOTJmYS00ZTk2LTgxYWEtNjM3ZmUxMjY2NWFiXkEyXkFqcGdeQXVyNjU2NTI4MjE@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359647.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"The Plan Man",
+       "year":"2014",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTIwY2ZkYzEtNzgxYS00OTNjLTk5ZTQtZjg3ZjVjZWYyNWY5XkEyXkFqcGdeQXVyMzE4MDkyNTA@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/359073.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Legion",
+       "year":"2010",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNDc1ZWI0MGEtZDhhNy00OGY2LTgzOGQtM2ExZGY2NTRiMmE3XkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/358603.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Aham Reboot",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTYwMGQ2MTgtYTQzNi00ODQ5LWE0M2ItZTU1M2VjYzk3MDI3XkEyXkFqcGdeQXVyNjk0NzYwMzQ@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/358604.mp4",
+		"genre":"Triller",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"PGT: Prema Geema Thassadiyya",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNzIxZTgxZDMtODA4Yy00Yzc1LWE5MzUtODIwYWNlZGZiNDFlXkEyXkFqcGdeQXVyMTMzMzczNzI1._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/358608.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"House of the Disappeared",
+       "year":"2017",
+		"poster":"https://m.media-amazon.com/images/M/MV5BODYzMTU5YzItMjI2ZC00NGI3LThmMjktZmE2MzY0YWMwYjI5XkEyXkFqcGdeQXVyNTA0MzY3Nzk@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357308.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Summer in Red",
+       "year":"2023",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/5/5f/Verano_en_rojo_poster.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357309.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Civil War",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYTYyODhlODktYjUzNC00NjUyLWI1MzYtNmI0MTY3YTUxYjY2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357135.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Bhaje Vaayu Vegam",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYTU2NGZlYzQtYjA0MS00OTU4LThjOTUtZjViMDU2ZjU2NDJkXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR1,0,190,281_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357137.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Love Mouli",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYWYzNmZkMzgtMGY2ZC00NGEzLWJjZDUtNDYyZTIyOWExOTZhXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357139.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Satyabhama",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNjExN2JlYTEtYTBiYy00ZjI2LWFlMmUtZTVjYTY4ODM4Y2U5XkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357142.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Vindu Bhojanam",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BY2FlNDAyNjctNDg0Ni00MGEzLWJjNDYtNGVjNTc4YjVjY2NiXkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/357143.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Remember",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMmM3NzkxNGEtZGY0Zi00ODA4LWI4NjktNzRiOGRmYWIwNzA2XkEyXkFqcGdeQXVyMTI0ODg5Nzg3._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/356834.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Detective Dee and Ninth Floor Demon Tower",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMGVhYTQ3ZTEtMWMzOS00ZGExLWJlNjItZThjZDlhNzU3YmZjXkEyXkFqcGdeQXVyMTMyMTYwOTI0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/356835.mp4",
+		"genre":"Mystry",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Kalki 2898 - AD",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOTlhMWI0NmUtZTRkYi00NGY5LWI3NWUtZTg3NTk2OWRlYTRmXkEyXkFqcGdeQXVyMTUzNTgzNzM0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/356831.mp4",
+		"genre":"Triller",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Guruvayoor Ambalanadayil",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYzZjZmU4NzAtZmJiMi00YjZlLTk1ZWYtNGU5MGEyYTQ0YTZkXkEyXkFqcGdeQXVyMTUwMDg3OTQy._V1_QL75_UX820_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/356491.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Honeymoon Express",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BM2MwNDI0YmMtNTg1NS00OTdjLWEwYTEtNzE5NzNiZjA4NzY3XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_QL75_UY281_CR46,0,190,281_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/356241.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Death Defying Acts",
+       "year":"2007",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTI0MDA4MzM4MV5BMl5BanBnXkFtZTcwNjE3Nzc3MQ@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355678.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Ditto",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZjMyZTM0MDUtZjQyZS00M2MxLWJkMjAtMzNlNjM5MmYwMzUyXkEyXkFqcGdeQXVyMDM1MzY1Mg@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355679.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Giant Fish",
+       "year":"2020",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZTQ4MDc5MDUtNDI2OC00Yjk3LTg4YmYtM2NiMTc4NDY0ZjVmXkEyXkFqcGdeQXVyNzA2MDE5NDg@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355680.mp4",
+		"genre":"Mystry",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"I Could Never Be Your Woman",
+       "year":"2007",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMGZiYjUzMmEtNzlkNC00MTc0LWFhZmQtMGIxMGU4YTdlOTM4XkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355681.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"New Year Blues",
+       "year":"2021",
+		"poster":"https://m.media-amazon.com/images/M/MV5BY2MwMWMxZDctYjZiMS00MzUwLWFiODgtOTRjMWJhOWFkYjkyXkEyXkFqcGdeQXVyNDE2OTE4Mg@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355682.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Silent Night",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BN2ZjNDg4ZGQtZTY4NC00MWVmLTk4ZmEtYjc1NWRkZWRjMWUwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355683.mp4",
+		"genre":"Triller",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"The Good Girl",
+       "year":"2002",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTc1MjYwOTQwNV5BMl5BanBnXkFtZTcwOTU5MzkxMQ@@._V1_QL75_UX820_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355684.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Why Did You Come to My House",
+       "year":"2009",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMWM2ZWNkMDYtNTc5MS00MjlkLWE0OGUtZDNhNzcyMzE4MmM3XkEyXkFqcGdeQXVyNDY5NjU5MDE@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355685.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Kung Fu Master Su: Golden Pirates",
+       "year":"2022",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMGVhYTQ3ZTEtMWMzOS00ZGExLWJlNjItZThjZDlhNzU3YmZjXkEyXkFqcGdeQXVyMTMyMTYwOTI0._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/355193.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Bhoot Bandhus & The Power of Three",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYzRjYWMwMzQtODU1Ny00NTUzLThlMzEtZmU0MzZhNTE0YzIwXkEyXkFqcGdeQXVyNDc5OTY4OTc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/354781.mp4",
+		"genre":"Anime",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Freelance",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZmM2ZGU1NGUtNjhiYy00YzEwLWE0MDctNGRlZmZiY2E5ZTY0XkEyXkFqcGdeQXVyMjI0NjI0Nw@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353865.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Maharaj",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOWViZWQ5ODctMzdjYi00MmUyLTlmZmMtMzUxOTMwMDZjMmM5XkEyXkFqcGc@._V1_QL75_UY281_CR11,0,190,281_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353866.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Trigger Warning",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BN2M2YzNhOTEtNmExNS00MDhjLWJmNDMtZGU3YmVjMGVmOGUzXkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353867.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Baak",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/baak-et00396335-1714374099.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353868.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Gam Gam Ganesha",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZDFkMzZmNTYtYjUyOS00NzFiLWI3ZjYtZDE2ZDNhMzdhZTIyXkEyXkFqcGdeQXVyMTU0ODI1NTA2._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/353192.mp4",
+		"genre":"Comedy",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Dracula Untold",
+       "year":"2014",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTkzNzI1OTI4N15BMl5BanBnXkFtZTgwNTQ2NzEwMjE@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352842.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Radhaa Madhavam",
+       "year":"2024",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/d/d3/Radha_Madhavam_%282024_film%29.jpeg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352843.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Always",
+       "year":"2011",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMTc4NjcwNDIwNl5BMl5BanBnXkFtZTcwNTA0NTg2Nw@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352421.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Love My Scent",
+       "year":"2023",
+		"poster":"https://m.media-amazon.com/images/M/MV5BOGQzM2JmODYtNDIxYy00Y2VhLThmNTQtMGYyNzY1ZDE5ZWNmXkEyXkFqcGdeQXVyNjI4NDY5ODM@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352422.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Mood of the Day",
+       "year":"2016",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZTg0NDQ3ZmItZTEwZS00MTQ1LWI0MDYtZTlkMzVlN2Q3MWM4XkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352423.mp4",
+		"genre":"Romance",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Nee Dhaarey Nee Katha",
+       "year":"2024",
+		"poster":"https://assetscdn1.paytm.com/images/cinema/Nee-Dhaarey-Nee-Katha-608x800-54ff7390-27c6-11ef-a342-13ea6c7d9d31.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/352220.mp4",
+		"genre":"Drama",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Indrani - Epic1: Dharam vs Karam",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/indrani--epic-1-dharam-vs-karam-et00400917-1718003699.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/351488.mp4",
+		"genre":"Action",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Deep Trap",
+       "year":"2015",
+		"poster":"https://m.media-amazon.com/images/M/MV5BM2RjODE5MTctMjcxOS00Nzk4LWFkNzctYzIxNzliNzg5ZDkwXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/351147.mp4",
+		"genre":"Crime",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Love Mocktail 2",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMzJiNjIyOWYtNmNhZC00NTFkLWJiOGUtZGU0ZjZmYzdhZTg3XkEyXkFqcGdeQXVyMTczMjY3ODk0._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/351148.mp4",
+		"genre":"Romance",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Boonie Bears: Guardian Code",
+       "year":"2024",
+		"poster":"https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/boonie-bears-guardian-code-et00395534-1713519985.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350564.mp4",
+		"genre":"Anime",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Ultraman: Rising",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNDE2NzQ5N2YtMTlkNy00ODI2LWEyZDctODY4OTgxMWMxYmE2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350565.mp4",
+		"genre":"Anime",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Dear Nanna",
+       "year":"2024",
+		"poster":"https://idlebrain.com/images5/dearnanna-aha.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350035.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Gangs of Godavari",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMzEwZjVjNTItZmMxYi00YjVhLWFjMzUtNjA1NzkzYzg1ZWMyXkEyXkFqcGc@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350037.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Love Me If You Dare",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BNGRlZDRhYTMtZjUyYi00NjRmLWJhMzctZTk5YzA1YmE5ZmVmXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_QL75_UY281_CR18,0,190,281_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/350045.mp4",
+		"genre":"Horror",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Invasive",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjMxYmViNmYtYTJmYS00MzcyLTgzMDQtODk0OWE0MTZlOTk4XkEyXkFqcGdeQXVyMjAyMTc3OTE@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349464.mp4",
+		"genre":"Horror",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Mirza: Part 1 - Joker",
+       "year":"2024",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Mirza_film_poster.jpeg/220px-Mirza_film_poster.jpeg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349465.mp4",
+		"genre":"Action",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Nadikar",
+       "year":"2024",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/f/f6/Nadikar.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349466.mp4",
+		"genre":"Comedy",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"The Strangers: Chapter 1",
+       "year":"2024",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/3/3f/The_Strangers_Chapter_1_poster.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349467.mp4",
+		"genre":"Horror",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"Parijatha Parvam",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BZmNmYWRmZGYtNTE3Mi00YTFhLWJhMDMtMzU5ODBmNDhhYjg1XkEyXkFqcGdeQXVyMTQ2NTg1MzAz._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349468.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Ip Man and Four Kings",
+       "year":"2019",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMjdmNzNiZDktMTdlOS00ZGQwLTkyYmMtOGY0NWQzZjdmNDIyXkEyXkFqcGdeQXVyMzE4ODQ5Ng@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/349025.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Young Ip Man: Crisis Time",
+       "year":"2020",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMzAyNTQxYzYtNTU2NC00NGJkLWE0NGEtNTU0YTA5NzNiNzY4XkEyXkFqcGdeQXVyMjMxMTE2MTQ@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/348245.mp4",
+		"genre":"Action",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Star",
+       "year":"2024",
+		"poster":"https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/Star_%28upcoming_film%29.jpg/220px-Star_%28upcoming_film%29.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/347373.mp4",
+		"genre":"Drama",
+       "type": ["Web-Rip"],
+       "featured": false
+    },
+    {
+       "title":"Weapon",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BMzIxMDkzNjMtYWRjYy00MTFkLTk0M2EtY2Q3ZTEwZTI5MTFhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/347377.mp4",
+		"genre":"Sci-Fi",
+       "type": ["Cam"],
+       "featured": false
+    },
+    {
+       "title":"HITMAN",
+       "year":"2024",
+		"poster":"https://m.media-amazon.com/images/M/MV5BYTJmMDM4YWItMGM2YS00MzQ0LTliM2ItZDE1NzVlMjNjNDVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+       "link":"http://starshare.live:8080/movie/rvdgdf7647564/bvchgfd235454/346883.mp4",
+		"genre":"Rom-com",
+       "type": ["Web-Rip"],
+		"featured": false
+    }
+]
