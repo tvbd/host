@@ -1,7 +1,10 @@
 [
-{"link2":"//https://tv.garden/","img":"","genre":"All","lang":"Bd","name":"Tv graden","author":"TVBD"}
+{"link2":"//tv.garden/","img":"","genre":"All","lang":"Bd","name":"Tv graden","author":"TVBD"}
 ,{"link2":"//toffeelive.com/live-tv/all","img":"","genre":"All","lang":"Bd","name":"Toffeelive.","author":"TVBD"}
 ,{"link2":"//vidgrid.tk.gg","img":"","genre":"All","lang":"Other","name":"Vidgrid","author":"TVBD"}
 ,{"link2":"//totv.org/channel","img":"","genre":"All","lang":"Other","name":"Toto","author":"TVBD"}
-
+,{"link2":"//rslive-tv.github.io/web/","img":"","genre":"All","lang":"Other","name":"Rslive","author":"TVBD"}
+,{"link2":"//imotv.online/","img":"","genre":"All","lang":"Other","name":"imotv","author":"TVBD"}
+,{"link2":"//altogether.unaux.com/","img":"","genre":"All","lang":"Other","name":"Altogether","author":"TVBD"}
+  
 ]
